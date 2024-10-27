@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "brickGame2",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "brickGame2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-brickGame2-Debug-99335025e35cdad5eff4.json",
+					"name" : "brickGame2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "brick_game_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-brick_game_tests-Debug-7ec1974e4b56eeaa614b.json",
+					"name" : "brick_game_tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/aleksandrmaltsev/Documents/dev/my_github/CPP3_BrickGame_v2.0-1/src/cmake-build-debug",
+		"source" : "/Users/aleksandrmaltsev/Documents/dev/my_github/CPP3_BrickGame_v2.0-1/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

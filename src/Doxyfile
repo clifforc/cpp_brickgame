@@ -1,0 +1,7 @@
+PROJECT_NAME = "BrickGame"
+PROJECT_NUMBER = "1.0"
+PROJECT_BRIEF = "BrickGame"
+output_DIRECTORY = "build"
+GENERATE_LATEX = NO
+INPUT = "."
+RECURSIVE = YES

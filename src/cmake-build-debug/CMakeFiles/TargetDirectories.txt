@@ -1,0 +1,4 @@
+/Users/aleksandrmaltsev/Documents/dev/my_github/CPP3_BrickGame_v2.0-1/src/cmake-build-debug/CMakeFiles/brickGame2.dir
+/Users/aleksandrmaltsev/Documents/dev/my_github/CPP3_BrickGame_v2.0-1/src/cmake-build-debug/CMakeFiles/brick_game_tests.dir
+/Users/aleksandrmaltsev/Documents/dev/my_github/CPP3_BrickGame_v2.0-1/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksandrmaltsev/Documents/dev/my_github/CPP3_BrickGame_v2.0-1/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
